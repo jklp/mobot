@@ -13,5 +13,6 @@
   "hubot-business-cat",
   "hubot-thank-you",
   "hubot-yelp",
-  "hubot-voting"
+  "hubot-voting",
+  "hubot-forecastio"
 ]
