@@ -1,17 +1,18 @@
 [
+  "hubot-cute-me",
   "hubot-diagnostics",
-  "hubot-help",
-  "hubot-heroku-keepalive",
+  "hubot-forecastio",
   "hubot-google-images",
   "hubot-google-translate",
-  "hubot-pugme",
+  "hubot-help",
+  "hubot-heroku-keepalive",
   "hubot-maps",
+  "hubot-pugme",
   "hubot-redis-brain",
+  "hubot-remind-advanced",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-cute-me",
   "hubot-thank-you",
-  "hubot-yelp",
   "hubot-voting",
-  "hubot-forecastio"
+  "hubot-yelp"
 ]
